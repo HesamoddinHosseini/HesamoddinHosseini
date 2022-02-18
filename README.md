@@ -24,10 +24,7 @@ B-311, Computer Engineering Department
 <div align="center">
 <h3> My contribution status </h3>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HesamoddinHosseini&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
-![Hesamoddin Hosseini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HesamoddinHosseini&show_icons=true&theme=flag-india&border_radius=25)
-</div>
-  
+
 <h3> Contact: </h3>
 Type in hesamoddin.hosseini followed by the ``at'' symbol followed by dot-separated mail um ac ir
 
