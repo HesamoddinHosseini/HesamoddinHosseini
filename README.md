@@ -20,9 +20,6 @@ B-311, Computer Engineering Department
 <a href="https://sites.google.com/view/hesamoddin""> <img alt="Hesamoddin Hosseini Website" width="35px" src="https://raw.githubusercontent.com/HesamoddinHosseini/HesamoddinHosseini/main/website.png" /> </a> 
 <a href="http://hesamoddin.hosseini.student.um.ac.ir""> <img alt="Hesamoddin Hosseini Website" width="35px" src="https://raw.githubusercontent.com/HesamoddinHosseini/HesamoddinHosseini/main/website.png" /> </a> 
 
-
-<div align="center">
-<h3> My contribution status </h3>
   
 
 <h3> Contact: </h3>
