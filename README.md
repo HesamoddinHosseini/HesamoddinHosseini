@@ -1,8 +1,8 @@
 
-M.Sc. Student Of Computer Engineering - Artificial Intelligence and Robotics Field
+PhD applicant Of Computer Engineering - Artificial Intelligence and Robotics Field
 , Department of Computer Engineering (CE)
 , Faculty of Engineering (FoC)
-, Ferdowsi University of Mashhad (FUM)
+,  
 
 <h3> Room: </h3>
 B-311, Computer Engineering Department
