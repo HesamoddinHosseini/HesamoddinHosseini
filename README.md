@@ -3,6 +3,8 @@ PhD applicant Of Computer Engineering - Artificial Intelligence and Robotics Fie
 , Curtin Medical School
 , Faculty Health of Science
 ,  Curtin University
+, Perth
+, Australia
 
 <h3> Room: </h3>
 Building 410, Curtin Medical School
