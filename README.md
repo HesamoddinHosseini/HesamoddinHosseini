@@ -1,14 +1,14 @@
 
 PhD applicant Of Computer Engineering - Artificial Intelligence and Robotics Field
-, Department of Computer Engineering (CE)
-, Faculty of Engineering (FoC)
-,  
+, Curtin Medical School
+, Faculty Health of Science
+,  Curtin University
 
 <h3> Room: </h3>
-B-311, Computer Engineering Department
-, Faculty of Engineering  
-, Ferdowsi University of Mashhad 
-, Azadi Sq., Mashhad, Iran
+Building 410, Curtin Medical School
+, Faculty Health of Science 
+, Curtin University
+, Kent St, Bentley WA 6102, Australia
 
 <div align="center">
 <h3> You can Find me on: </h3>
