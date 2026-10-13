@@ -1,5 +1,5 @@
 
-PhD applicant Of Computer Engineering - Artificial Intelligence and Robotics Field
+PhD Candidate in AI at
 , Curtin Medical School
 , Faculty Health of Science
 ,  Curtin University
