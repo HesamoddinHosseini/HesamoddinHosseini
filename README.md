@@ -7,6 +7,9 @@ PhD applicant Of Computer Engineering - Artificial Intelligence and Robotics Fie
 , Australia
 
 <h3> Room: </h3>
+level 2, Harry Perkins, Murdoch, Australia
+
+
 Building 410, Curtin Medical School
 , Faculty Health of Science 
 , Curtin University
