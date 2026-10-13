@@ -34,8 +34,8 @@ Building 410, Curtin Medical School
 </div>
   
 
-  
+ 
 
 <h3> Contact: </h3>
-Type in hesamoddin.hosseini followed by the ``at'' symbol followed by dot-separated mail um ac ir
+Type in s.hosseini11 followed by the ``at'' symbol followed by dot-separated postgrad curtin edu au
 
